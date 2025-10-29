@@ -1,0 +1,53 @@
+﻿@model Sistema.Universitario.Web.Models.DisciplinaViewModel.DisciplinaCreateViewModel
+
+@{
+    ViewData["Title"] = "Cadastrar Nova Disciplina";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <div class="card-header bg-info text-dark">
+                    <h4 class="mb-0"><i class="fas fa-plus-circle me-2"></i>@ViewData["Title"]</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Create" method="post">
+                        @Html.AntiForgeryToken()
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                        <div class="mb-3">
+                            <label asp-for="Nome" class="form-label fw-bold"></label>
+                            <input asp-for="Nome" class="form-control" placeholder="Ex: Cálculo I" />
+                            <span asp-validation-for="Nome" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="CursoIds" class="form-label fw-bold">Associar aos Cursos</label>
+                            <select asp-for="CursoIds" class="form-select" asp-items="@Model.CursosDisponiveis" multiple size="5"></select>
+                            <div class="form-text">Segure a tecla Ctrl (ou Cmd no Mac) para selecionar múltiplos cursos.</div>
+                            <span asp-validation-for="CursoIds" class="text-danger small"></span>
+                        </div>
+
+                        <hr />
+
+                        <div class="d-flex justify-content-end">
+                            <a asp-action="Index" class="btn btn-secondary me-2">
+                                <i class="fas fa-arrow-left me-1"></i> Voltar para a Lista
+                            </a>
+                            <button type="submit" class="btn btn-info text-dark">
+                                <i class="fas fa-save me-1"></i> Salvar Disciplina
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

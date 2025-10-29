@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Falha na Exclusão";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card border-warning shadow-sm">
+                <div class="card-header bg-warning text-dark">
+                    <h4 class="mb-0"><i class="fas fa-ban me-2"></i>Operação Não Permitida</h4>
+                </div>
+                <div class="card-body text-center">
+                    <p class="lead">A exclusão não pôde ser concluída.</p>
+
+                    @if (TempData["ErrorMessage"] != null)
+                    {
+                        <div class="alert alert-danger mt-3">
+                            <strong>Motivo:</strong> @TempData["ErrorMessage"]
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="alert alert-danger mt-3">
+                            O item não pode ser excluído pois possui outras entidades dependendo dele.
+                        </div>
+                    }
+
+                    <hr />
+
+                    <a onclick="history.back();" class="btn btn-primary">
+                        <i class="fas fa-arrow-left me-1"></i> Voltar para a Página Anterior
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
