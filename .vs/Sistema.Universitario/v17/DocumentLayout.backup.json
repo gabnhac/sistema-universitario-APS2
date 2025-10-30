@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|c:\\users\\gabluce\\documents\\unipam-ex\\6_periodo\\c#\\sistema-universitario-aps2\\sistema.universitario.web\\views\\cursos\\deletefail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|solutionrelative:sistema.universitario.web\\views\\cursos\\deletefail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|c:\\users\\gabluce\\documents\\unipam-ex\\6_periodo\\c#\\sistema-universitario-aps2\\sistema.universitario.web\\views\\turmas\\deletefail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|solutionrelative:sistema.universitario.web\\views\\turmas\\deletefail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|c:\\users\\gabluce\\documents\\unipam-ex\\6_periodo\\c#\\sistema-universitario-aps2\\sistema.universitario.web\\controllers\\turmascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|solutionrelative:sistema.universitario.web\\controllers\\turmascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|c:\\users\\gabluce\\documents\\unipam-ex\\6_periodo\\c#\\sistema-universitario-aps2\\sistema.universitario.web\\services\\interfaces\\iturmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|solutionrelative:sistema.universitario.web\\services\\interfaces\\iturmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|c:\\users\\gabluce\\documents\\unipam-ex\\6_periodo\\c#\\sistema-universitario-aps2\\sistema.universitario.web\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|solutionrelative:sistema.universitario.web\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|c:\\users\\gabluce\\documents\\unipam-ex\\6_periodo\\c#\\sistema-universitario-aps2\\sistema.universitario.web\\services\\interfaces\\icursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|solutionrelative:sistema.universitario.web\\services\\interfaces\\icursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|c:\\users\\gabluce\\documents\\unipam-ex\\6_periodo\\c#\\sistema-universitario-aps2\\sistema.universitario.web\\services\\cursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|solutionrelative:sistema.universitario.web\\services\\cursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|c:\\users\\gabluce\\documents\\unipam-ex\\6_periodo\\c#\\sistema-universitario-aps2\\sistema.universitario.web\\services\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|solutionrelative:sistema.universitario.web\\services\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|c:\\users\\gabluce\\documents\\unipam-ex\\6_periodo\\c#\\sistema-universitario-aps2\\sistema.universitario.web\\views\\cursos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|solutionrelative:sistema.universitario.web\\views\\cursos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|c:\\users\\gabluce\\documents\\unipam-ex\\6_periodo\\c#\\sistema-universitario-aps2\\sistema.universitario.web\\views\\cursos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|solutionrelative:sistema.universitario.web\\views\\cursos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|c:\\users\\gabluce\\documents\\unipam-ex\\6_periodo\\c#\\sistema-universitario-aps2\\sistema.universitario.web\\views\\turmas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|solutionrelative:sistema.universitario.web\\views\\turmas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|c:\\users\\gabluce\\documents\\unipam-ex\\6_periodo\\c#\\sistema-universitario-aps2\\sistema.universitario.web\\views\\disciplinas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|solutionrelative:sistema.universitario.web\\views\\disciplinas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8D84A2C-E730-44A1-94E5-27156A99B861}|Sistema.Universitario.Dominio\\Sistema.Universitario.Dominio.csproj|c:\\users\\gabluce\\documents\\unipam-ex\\6_periodo\\c#\\sistema-universitario-aps2\\sistema.universitario.dominio\\model\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8D84A2C-E730-44A1-94E5-27156A99B861}|Sistema.Universitario.Dominio\\Sistema.Universitario.Dominio.csproj|solutionrelative:sistema.universitario.dominio\\model\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|c:\\users\\gabluce\\documents\\unipam-ex\\6_periodo\\c#\\sistema-universitario-aps2\\sistema.universitario.web\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|solutionrelative:sistema.universitario.web\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|c:\\users\\gabluce\\documents\\unipam-ex\\6_periodo\\c#\\sistema-universitario-aps2\\sistema.universitario.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE07E87D-C674-4F95-8769-72F6007BB63F}|Sistema.Universitario.Web\\Sistema.Universitario.Web.csproj|solutionrelative:sistema.universitario.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteFail.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Views\\Cursos\\DeleteFail.cshtml",
+              "RelativeDocumentMoniker": "Sistema.Universitario.Web\\Views\\Cursos\\DeleteFail.cshtml",
+              "ToolTip": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Views\\Cursos\\DeleteFail.cshtml",
+              "RelativeToolTip": "Sistema.Universitario.Web\\Views\\Cursos\\DeleteFail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T18:06:29.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteFail.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Views\\Turmas\\DeleteFail.cshtml",
+              "RelativeDocumentMoniker": "Sistema.Universitario.Web\\Views\\Turmas\\DeleteFail.cshtml",
+              "ToolTip": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Views\\Turmas\\DeleteFail.cshtml",
+              "RelativeToolTip": "Sistema.Universitario.Web\\Views\\Turmas\\DeleteFail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T18:06:11.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITurmaService.cs",
+              "DocumentMoniker": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Services\\Interfaces\\ITurmaService.cs",
+              "RelativeDocumentMoniker": "Sistema.Universitario.Web\\Services\\Interfaces\\ITurmaService.cs",
+              "ToolTip": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Services\\Interfaces\\ITurmaService.cs",
+              "RelativeToolTip": "Sistema.Universitario.Web\\Services\\Interfaces\\ITurmaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T18:05:05.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurmasController.cs",
+              "DocumentMoniker": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Controllers\\TurmasController.cs",
+              "RelativeDocumentMoniker": "Sistema.Universitario.Web\\Controllers\\TurmasController.cs",
+              "ToolTip": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Controllers\\TurmasController.cs",
+              "RelativeToolTip": "Sistema.Universitario.Web\\Controllers\\TurmasController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T18:04:53.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICursoService.cs",
+              "DocumentMoniker": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Services\\Interfaces\\ICursoService.cs",
+              "RelativeDocumentMoniker": "Sistema.Universitario.Web\\Services\\Interfaces\\ICursoService.cs",
+              "ToolTip": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Services\\Interfaces\\ICursoService.cs",
+              "RelativeToolTip": "Sistema.Universitario.Web\\Services\\Interfaces\\ICursoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T18:03:39.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CursosController.cs",
+              "DocumentMoniker": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Controllers\\CursosController.cs",
+              "RelativeDocumentMoniker": "Sistema.Universitario.Web\\Controllers\\CursosController.cs",
+              "ToolTip": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Controllers\\CursosController.cs",
+              "RelativeToolTip": "Sistema.Universitario.Web\\Controllers\\CursosController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T18:03:08.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TurmaService.cs",
+              "DocumentMoniker": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Services\\TurmaService.cs",
+              "RelativeDocumentMoniker": "Sistema.Universitario.Web\\Services\\TurmaService.cs",
+              "ToolTip": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Services\\TurmaService.cs",
+              "RelativeToolTip": "Sistema.Universitario.Web\\Services\\TurmaService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwF8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T18:02:07.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CursoService.cs",
+              "DocumentMoniker": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Services\\CursoService.cs",
+              "RelativeDocumentMoniker": "Sistema.Universitario.Web\\Services\\CursoService.cs",
+              "ToolTip": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Services\\CursoService.cs",
+              "RelativeToolTip": "Sistema.Universitario.Web\\Services\\CursoService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwv0AAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T18:01:32.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Views\\Cursos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sistema.Universitario.Web\\Views\\Cursos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Views\\Cursos\\Create.cshtml",
+              "RelativeToolTip": "Sistema.Universitario.Web\\Views\\Cursos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T18:01:28.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Views\\Cursos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sistema.Universitario.Web\\Views\\Cursos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Views\\Cursos\\Delete.cshtml",
+              "RelativeToolTip": "Sistema.Universitario.Web\\Views\\Cursos\\Delete.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwEcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T17:59:58.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Views\\Turmas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sistema.Universitario.Web\\Views\\Turmas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Views\\Turmas\\Delete.cshtml",
+              "RelativeToolTip": "Sistema.Universitario.Web\\Views\\Turmas\\Delete.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwCcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T18:00:04.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Views\\Disciplinas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sistema.Universitario.Web\\Views\\Disciplinas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Views\\Disciplinas\\Delete.cshtml",
+              "RelativeToolTip": "Sistema.Universitario.Web\\Views\\Disciplinas\\Delete.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T18:00:00.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Dominio\\Model\\Aluno.cs",
+              "RelativeDocumentMoniker": "Sistema.Universitario.Dominio\\Model\\Aluno.cs",
+              "ToolTip": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Dominio\\Model\\Aluno.cs",
+              "RelativeToolTip": "Sistema.Universitario.Dominio\\Model\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:57:36.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Services\\AlunoService.cs",
+              "RelativeDocumentMoniker": "Sistema.Universitario.Web\\Services\\AlunoService.cs",
+              "ToolTip": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Services\\AlunoService.cs",
+              "RelativeToolTip": "Sistema.Universitario.Web\\Services\\AlunoService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:55:38.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema.Universitario.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\gabluce\\Documents\\unipam-ex\\6_periodo\\C#\\sistema-universitario-APS2\\Sistema.Universitario.Web\\Program.cs",
+              "RelativeToolTip": "Sistema.Universitario.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:52:35.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

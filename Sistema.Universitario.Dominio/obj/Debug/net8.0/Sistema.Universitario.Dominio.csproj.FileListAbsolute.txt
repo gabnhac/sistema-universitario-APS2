@@ -1,0 +1,12 @@
+C:\Users\gabluce\Documents\unipam-ex\6_periodo\C#\sistema-universitario-APS2\Sistema.Universitario.Dominio\bin\Debug\net8.0\Sistema.Universitario.Dominio.deps.json
+C:\Users\gabluce\Documents\unipam-ex\6_periodo\C#\sistema-universitario-APS2\Sistema.Universitario.Dominio\bin\Debug\net8.0\Sistema.Universitario.Dominio.dll
+C:\Users\gabluce\Documents\unipam-ex\6_periodo\C#\sistema-universitario-APS2\Sistema.Universitario.Dominio\bin\Debug\net8.0\Sistema.Universitario.Dominio.pdb
+C:\Users\gabluce\Documents\unipam-ex\6_periodo\C#\sistema-universitario-APS2\Sistema.Universitario.Dominio\obj\Debug\net8.0\Sistema.Universitario.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabluce\Documents\unipam-ex\6_periodo\C#\sistema-universitario-APS2\Sistema.Universitario.Dominio\obj\Debug\net8.0\Sistema.Universitario.Dominio.AssemblyInfoInputs.cache
+C:\Users\gabluce\Documents\unipam-ex\6_periodo\C#\sistema-universitario-APS2\Sistema.Universitario.Dominio\obj\Debug\net8.0\Sistema.Universitario.Dominio.AssemblyInfo.cs
+C:\Users\gabluce\Documents\unipam-ex\6_periodo\C#\sistema-universitario-APS2\Sistema.Universitario.Dominio\obj\Debug\net8.0\Sistema.Universitario.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\gabluce\Documents\unipam-ex\6_periodo\C#\sistema-universitario-APS2\Sistema.Universitario.Dominio\obj\Debug\net8.0\Sistema.Universitario.Dominio.sourcelink.json
+C:\Users\gabluce\Documents\unipam-ex\6_periodo\C#\sistema-universitario-APS2\Sistema.Universitario.Dominio\obj\Debug\net8.0\Sistema.Universitario.Dominio.dll
+C:\Users\gabluce\Documents\unipam-ex\6_periodo\C#\sistema-universitario-APS2\Sistema.Universitario.Dominio\obj\Debug\net8.0\refint\Sistema.Universitario.Dominio.dll
+C:\Users\gabluce\Documents\unipam-ex\6_periodo\C#\sistema-universitario-APS2\Sistema.Universitario.Dominio\obj\Debug\net8.0\Sistema.Universitario.Dominio.pdb
+C:\Users\gabluce\Documents\unipam-ex\6_periodo\C#\sistema-universitario-APS2\Sistema.Universitario.Dominio\obj\Debug\net8.0\ref\Sistema.Universitario.Dominio.dll
